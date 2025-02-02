@@ -50,70 +50,52 @@ For Software:
 - Material UI – UI components for a professional look.
 - State Management (useState) – Handles selected college and faculty lists.
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]![s1](https://github.com/user-attachments/assets/b2a51412-bcba-4be1-8649-0e0c17f48edc)
+(Main page)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Screenshot2]![s6](https://github.com/user-attachments/assets/c142eabc-69b1-4071-ad89-29539e1160dc)
+(Select college------>Second page)
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![Screenshot3]![s10](https://github.com/user-attachments/assets/c070a156-b036-46bc-94cd-b3e885d0622e)
+(Click Provide feedback------->Third page)
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+
+
 
 # Build Photos
-![Team](Add photo of your team here)
+![Team](![grpphiti](https://github.com/user-attachments/assets/512efefd-8c2f-4668-b882-c8d2b73f993f)
+)
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+# Video(still photo)
+![s1](https://github.com/user-attachments/assets/f31c929e-b5c5-4085-90f6-eec48eae5c77)
+![s2](https://github.com/user-attachments/assets/b51ca355-223b-4423-bbe1-9da852b72239)
+![s3](https://github.com/user-attachments/assets/9e755d10-e0a2-4c58-831a-93d2c4ec61b3)
+![s4](https://github.com/user-attachments/assets/bec9698e-d4c2-45e2-bf8f-700f1bd00449)
+![s5](https://github.com/user-attachments/assets/dc5dae0c-ea32-4efd-b183-e18551ade026)
+![s6](https://github.com/user-attachments/assets/c92b09a0-8330-445e-b45c-997b16edef64)
+![s7](https://github.com/user-attachments/assets/fb1648bd-392a-4034-a848-08ace60cfe3a)
+![s8](https://github.com/user-attachments/assets/4ec833fb-633a-4411-ae72-2976f2e6e69a)
+![s9](https://github.com/user-attachments/assets/d5e4fe30-2e1d-4396-b423-f0e8b26473b7)
+![s10](https://github.com/user-attachments/assets/3323f5fc-f2eb-42af-b50a-22edd1fedf92)
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+
+
+
+
+
+
 
 ---
 Made with ❤️ at TinkerHub
