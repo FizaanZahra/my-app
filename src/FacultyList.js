@@ -45,7 +45,7 @@ const FacultyList = ({ selectedCollege }) => {
         { week: 'Week 1', rating: 4.3 },
         { week: 'Week 2', rating: 4.1 },
         { week: 'Week 3', rating: 4.4 },
-        { week: 'Week 4', rating: 4.2 }
+        { week: 'Week 4', rating: 4.2 },
       ],
       advancements: [
         { label: 'Uses memes to explain complex topics', value: 85 },
@@ -157,7 +157,10 @@ const FacultyList = ({ selectedCollege }) => {
 
   return (
     <Box sx={{ py: 4 }}>
-      <Typography variant="h5" gutterBottom sx={{ color: '#2c3e50', mb: 4 }}>
+      <Typography variant="h5"  className="gradient-text" sx={{ textAlign: 'center',
+          mb: 4,
+          fontWeight: 700,
+          letterSpacing: '0.5px' }}>
         Faculty Members - {selectedCollege}
       </Typography>
       
