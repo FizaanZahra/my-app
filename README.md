@@ -1,70 +1,119 @@
-# Getting Started with Create React App
+# FACULTY PERFOMANCE DASHBOARD 🎯
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Basic Details
+### Team Name: [Code Crafters]
 
-In the project directory, you can run:
 
-### `npm start`
+### Team Members
+- Member 1: Hasna KS - Sahrdaya College of Engineering and Technology
+- Member 2: Jahana Shirin - Sahrdaya College of Engineering and Technology
+- Member 3: Fizaan Zahra - Sahrdaya College of Engineering and Technology
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Hosted Project Link
+https://github.com/FizaanZahra/my-app
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Project Description
+The Faculty Performance Monitoring System is a web-based platform designed to collect and analyze faculty performance feedback from students in their respective colleges. The system ensures weekly updates on faculty performance and allows only approved users (administrators, faculty, and authorized personnel) to log in and access insights.
 
-### `npm test`
+### The Problem statement
+In many educational institutions, students face difficulties in providing honest feedback about their teachers due to:
+✅ Fear of retaliation – Students may hesitate to express negative feedback.
+✅ Lack of structured feedback collection – No formalized way to gather opinions.
+✅ No performance insights for faculty – Teachers lack data-driven suggestions for improvement.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### The Solution
+⿡ Secure Feedback Submission
+	•	Students can select a faculty member and rate their teaching.
+✅ Encourages honest feedback without fear.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+⿢ College & Faculty Selection
+	•	Institutions can register and manage faculty members.
+	•	Students can choose their college and faculty before submitting feedback.
+✅ Allows customization for different colleges.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+⿣ Performance Analytics & Insights
+	•	Admins can view aggregated feedback and track trends over time.
+	•	Faculty members can receive constructive feedback to improve.
+✅ Supports faculty development through data-driven insights.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+⿤ Clean & Intuitive UI
+	•	Uses React & Material UI for a modern and user-friendly design.
+✅ Ensures easy navigation for students and administrators.
 
-### `npm run eject`
+## Technical Details
+### Technologies/Components Used
+For Software:
+- React.js – Frontend framework for a dynamic interface.
+- Javascript(React.js)
+- Material UI – UI components for a professional look.
+- State Management (useState) – Handles selected college and faculty lists.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+For Hardware:
+- [List main components]
+- [List specifications]
+- [List tools required]
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Implementation
+For Software:
+# Installation
+[commands]
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Run
+[commands]
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Project Documentation
+For Software:
 
-## Learn More
+# Screenshots (Add at least 3)
+![Screenshot1](Add screenshot 1 here with proper name)
+*Add caption explaining what this shows*
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Screenshot2](Add screenshot 2 here with proper name)
+*Add caption explaining what this shows*
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot3](Add screenshot 3 here with proper name)
+*Add caption explaining what this shows*
 
-### Code Splitting
+# Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+*Add caption explaining your workflow*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+For Hardware:
 
-### Analyzing the Bundle Size
+# Schematic & Circuit
+![Circuit](Add your circuit diagram here)
+*Add caption explaining connections*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Schematic](Add your schematic diagram here)
+*Add caption explaining the schematic*
 
-### Making a Progressive Web App
+# Build Photos
+![Team](Add photo of your team here)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+![Components](Add photo of your components here)
+*List out all components shown*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Build](Add photos of build process here)
+*Explain the build steps*
 
-### Deployment
+![Final](Add photo of final product here)
+*Explain the final build*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Project Demo
+# Video
+[Add your demo video link here]
+*Explain what the video demonstrates*
 
-### `npm run build` fails to minify
+# Additional Demos
+[Add any extra demo materials/links]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Team Contributions
+- [Name 1]: [Specific contributions]
+- [Name 2]: [Specific contributions]
+- [Name 3]: [Specific contributions]
+
+---
+Made with ❤️ at TinkerHub
